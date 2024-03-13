@@ -1,0 +1,3 @@
+[submodule "solid"]
+	path = solid
+	url = git@github.com:JordanBourne/solidjs.git
