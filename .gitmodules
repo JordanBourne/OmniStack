@@ -1,3 +1,15 @@
 [submodule "solid"]
 	path = solid
 	url = git@github.com:JordanBourne/solidjs.git
+[submodule "solidjs"]
+	path = solidjs
+	url = git@github.com:JordanBourne/os-solidjs.git
+[submodule "golang"]
+	path = golang
+	url = git@github.com:JordanBourne/os-golang.git
+[submodule "bun"]
+	path = bun
+	url = git@github.com:JordanBourne/os-bun.git
+[submodule "react"]
+	path = react
+	url = git@github.com:JordanBourne/os-react.git
