@@ -1,7 +1,5 @@
 # All Features
 
----
-
 - User Auth + Profile
   - Create profile and log in
   - Authorized pages and functionality
