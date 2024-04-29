@@ -16,4 +16,7 @@ Through the process of working on these applications, one should expect to impro
 
 ##### Project Structure
 
-The initial decision for the structure is creating a [OmniStack Repo](https://github.com/JordanBourne/OmniStack) that has a sub module for each codebase traded as a micro-service. The reason for following this behavior is as follows: - Allow for easily starting development on each new application since they can be treated as standalone applications - Allow for versioning of each micro-service so not everything needs to be updated at once - Allow for retroactive fixes of previous versions of each micro-service easily by managing version branches
+The initial decision for the structure is creating a [OmniStack Repo](https://github.com/JordanBourne/OmniStack) that has a sub module for each codebase traded as a micro-service. The reason for following this behavior is as follows:
+  - Allow for easily starting development on each new application since they can be treated as standalone applications
+  - Allow for versioning of each micro-service so not everything needs to be updated at once
+  - Allow for retroactive fixes of previous versions of each micro-service easily by managing version branches
